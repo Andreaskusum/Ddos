@@ -16,7 +16,7 @@ print("  ╚═╝░░╚═╝╚══════╝╚═════╝�
 
 ip = str(input(" IP TARGET:"))
 port = int(input(" PORT:"))
-choice = str(input(" GASKEN KIRIM PAKET?(y/n):"))
+choice = str(input(" SERANG SEKARANG?(y/n):"))
 times = int(input(" PACKETS:"))
 threads = int(input(" THREAD:"))
 def run():
